@@ -1,0 +1,26 @@
+No Rekam Medis                          : 12345678
+Nama                                    : John Doe
+Golongan Darah                          : AB
+Tempat/ Tanggal Lahir                   : 07 Agustus 1978
+No Induk Kependudukan                   : 1234567890
+Jenis Kelamin                           : Laki-Laki
+Alamat                                  : Jalan Sana Sini RT. 01/ RW. 01 Kelurahan Qwerty Kecamatan Zxcvbn Kota Surabaya Provinsi Jawa Timur
+Agama                                   : Islam
+Pekerjaan                               : Pengusaha
+Status                                  : Kawin
+No. Telepon/ HP                         : 0891234567
+Kelompok Pasien                         : Umum
+Cara Pembayaran                         : Umum/ Mandiri
+
+Alergi                                  : Alergi obat
+Skrining                                : TB: 180 cm, BB: 70 kg
+Tanda Vital                             : TD: 10 mmHg, Nadi: 30 x/menit, Suhu: 36 °C
+
+Riwayat Penyakit                        : Batuk, Pilek, Covid-19
+Obat-obatan yang sedang dikonsumsi      : -
+Jantung 
+    - Inspeksi                          : - - - - - - - - - - - - - - -
+    - Palpasi                           : - - - - - - - - - - - - - - -
+    - Perkusi                           : - - - - - - - - - - - - - - - 
+    - Auskultasi                        : - - - - - - - - - - - - - - -
+
